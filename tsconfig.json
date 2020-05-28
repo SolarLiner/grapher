@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "target": "es6",
+        "strict": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "sourceMap": true,
+        "jsx": "react",
+        "jsxFactory": "h"
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
